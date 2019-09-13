@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "The app will take in orders from customers and deplete stock from the store's inventory.  Demonstrates the use of Node.js &amp; MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritafm/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritafm/Bamazon/issues"
+  },
+  "homepage": "https://github.com/ritafm/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
