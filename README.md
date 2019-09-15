@@ -11,3 +11,9 @@ Next, run the JS file to make a purchase:
 
 What if the client requests more product than exists in the inventory?:
 
+![not enough](https://user-images.githubusercontent.com/48167135/64915451-f3730100-d71b-11e9-894c-fb382da00e86.jpg)
+
+And once the purchase is complete:
+
+
+
