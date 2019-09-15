@@ -15,5 +15,7 @@ What if the client requests more product than exists in the inventory?:
 
 And once the purchase is complete:
 
+![purchase complete](https://user-images.githubusercontent.com/48167135/64915453-f837b500-d71b-11e9-99b4-bb7111460a05.jpg)
+
 
 
